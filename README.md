@@ -1,6 +1,6 @@
 # FórumHub
 
-## 💡 Sobre o Projeto
+## 💡 Sobre o Projeto 
 
 O **FórumHub** é uma API REST desenvolvida com o objetivo de simular o funcionamento de um fórum de dúvidas como o da plataforma Alura. Esse fórum permite a interação entre usuários, professores e moderadores, promovendo aprendizagem colaborativa.
 
